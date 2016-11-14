@@ -2,7 +2,7 @@ Source: debathena-gdm-config
 Section: debathena-config/gnome
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: cdbs, debhelper, dh-buildinfo, config-package-dev (>= 5.0~), debathena-gdm, lsb-release
+Build-Depends: cdbs, debhelper, dh-buildinfo, config-package-dev (>= 5.0~), gdm3 | gdm, lsb-release
 Standards-Version: 3.9.3
 
 Package: debathena-gdm-config

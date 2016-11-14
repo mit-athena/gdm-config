@@ -1,6 +1,12 @@
-debathena-gdm-config (1.42) unstable; urgency=medium
+debathena-gdm-config (1.43) unstable; urgency=medium
 
   * Replace debathena-gdm build dependency with gdm3 | gdm.
+
+ -- Anders Kaseorg <andersk@mit.edu>  Sun, 13 Nov 2016 22:06:32 -0500
+
+debathena-gdm-config (1.42) unstable; urgency=medium
+
+  * Replace debathena-gdm dependency with gdm3 | gdm.
 
  -- Anders Kaseorg <andersk@mit.edu>  Sun, 13 Nov 2016 20:04:43 -0500
 
